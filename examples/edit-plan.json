@@ -1,0 +1,13 @@
+{
+  "headline": "用AI省掉重复劳动",
+  "brand": "MAX STORM STUDIO",
+  "subtitle_font_size": 25,
+  "music_volume": 0.10,
+  "pip_start": 4.0,
+  "pip_end": 12.0,
+  "key_points": [
+    {"text": "第一步：识别重复工作", "start": 6.0, "end": 10.0},
+    {"text": "第二步：让AI执行", "start": 18.0, "end": 22.0},
+    {"text": "第三步：人工复核", "start": 39.0, "end": 43.0}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "topic": "AI 如何帮中小企业减少重复工作",
+  "audience": "企业管理者",
+  "platform": "抖音/视频号",
+  "target_seconds": 60,
+  "style": "自然、专业、具体例子优先",
+  "avatar": "从 .env HEYGEN_AVATAR_ID 读取",
+  "voice": "从 .env MINIMAX_VOICE_ID 读取",
+  "format": "9:16, 1080x1920",
+  "assets": "原创或已授权的视频/音乐；缺省不添加",
+  "review_gate": "默认必须审看预览才能生成完整成品"
+}
